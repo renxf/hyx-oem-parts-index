@@ -56,6 +56,11 @@ CATS = {
 CJK = re.compile(r"[\u4e00-\u9fff]")
 
 
+def clean_text(v):
+    """文案清洗: 换行折成空格(源 PDF 车型格是多行的,CSV 里带换行不利于导入)"""
+    return re.sub(r"\s*\n+\s*", " ", str(v or "").strip()).strip()
+
+
 def clean_oe(v):
     """件号清洗(与站点 tools/gen_seo.py 同一套规则):
     去首尾空白 + 去首尾逗号(源 PDF 一格里用逗号分隔多个件号,切分后残留尾逗号)"""
@@ -94,9 +99,9 @@ def build_rows(products):
                 "cat": cat,
                 "cat_slug": CATS[cat]["slug"],
                 "brand": p.get("brand") or "",
-                "model_zh": p.get("name_zh") or p.get("name") or "",
-                "model_en": p.get("name_en") or "",
-                "fitment": fit,
+                "model_zh": clean_text(p.get("name_zh") or p.get("name") or ""),
+                "model_en": clean_text(p.get("name_en") or ""),
+                "fitment": clean_text(fit),
                 "moq": p.get("moq") or 10,
                 "price_ref": p.get("price_ref") or "",
                 "url": url,
