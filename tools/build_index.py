@@ -111,6 +111,17 @@ def build_rows(products):
     return rows
 
 
+def sku_counts(products):
+    """各产品线的 SKU 总数(与站点一致 —— 含没有 OE 件号的 SKU,
+    不能只数有有效件号的行,否则会少算)"""
+    c = {}
+    for p in products:
+        cat = p.get("category") or ""
+        if cat in CATS:
+            c[cat] = c.get(cat, 0) + 1
+    return c
+
+
 def md_cell(v):
     return str(v or "").replace("|", "\\|").replace("\n", " ").strip() or "—"
 
@@ -118,11 +129,12 @@ def md_cell(v):
 # ------------------------------------------------------------------ README
 def build_readme(products, rows):
     uniq = len({r["oe"] for r in rows})
+    totals = sku_counts(products)
     per_cat = {}
     for c in CATS:
         rs = [r for r in rows if r["cat"] == c]
         per_cat[c] = {
-            "sku": len({r["sn"] for r in rs}),
+            "sku": totals.get(c, 0),
             "oe": len({r["oe"] for r in rs}),
             "rows": len(rs),
         }
@@ -260,13 +272,14 @@ def build_readme(products, rows):
 # ------------------------------------------------------------------ docs
 def build_docs(products, rows):
     out = {}
+    totals = sku_counts(products)
     for c, v in CATS.items():
         rs = [r for r in rows if r["cat"] == c]
         L = []
         a = L.append
         a(f"# {v['zh']} / {v['en']} — OE 件号索引")
         a("")
-        a(f"{len({r['oe'] for r in rs})} 个唯一 OE 件号 · {len({r['sn'] for r in rs})} 个 SKU · {len(rs)} 条对照关系")
+        a(f"{len({r['oe'] for r in rs})} 个唯一 OE 件号 · {totals.get(c, 0)} 个 SKU · {len(rs)} 条对照关系")
         a("")
         a(f"- 官网分类页 / Category page: {SITE}/category/{v['slug']}")
         a(f"- 关键词 / Keywords: {v['kw_zh']} / {v['kw_en']}")
@@ -441,12 +454,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Data note: Part numbers and fitment data are published by HYX Auto Parts under
-the same terms. When quoting this dataset, please link to the specific product
-page on https://hyxautoparts.com rather than mirroring the whole site.
 """
 
 
