@@ -445,7 +445,7 @@
   "sn": 14,
   "row": 16,
   "factory": "2TH004",
-  "oe": "1号+切换线",
+  "oe": "",
   "name": "通货",
   "size": "",
   "weight": "",
@@ -463,17 +463,16 @@
   "name_en": "No.1 + Switch Line (Universal)",
   "name_zh": "通货",
   "url": "2TH004",
-  "oe_list": [
-   "1号+切换线"
-  ],
-  "oe_count": 1,
+  "oe_list": [],
+  "oe_count": 0,
   "image_status": "ok",
   "fitment_group": "LEG-6",
   "fitment_count": 1,
   "fitment_models": [],
   "category": "handle-cam",
   "moq": 10,
-  "page": "p/1-chevrolet-gmc-tailgate-handle-camera"
+  "page": "p/1-chevrolet-gmc-tailgate-handle-camera",
+  "oe_source_note": "源件号栏填的是中文描述「1号+切换线」,不是 OE 件号,按口径规则不计入件号统计"
  },
  {
   "sn": 15,
