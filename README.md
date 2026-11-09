@@ -48,9 +48,9 @@ Use it to: look up an OE number → confirm the matching SKU and factory code �
 
 | 产品线 / Line | SKU | 唯一 OE / Unique OE | 官网分类页 / Category page | 完整索引 / Full index |
 | --- | --- | --- | --- | --- |
-| 尾门拉手摄像头 / Tailgate Handle Camera | 43 | 47 | [https://hyxautoparts.com/category/tailgate-handle-camera](https://hyxautoparts.com/category/tailgate-handle-camera) | [docs/tailgate-handle-camera.md](docs/tailgate-handle-camera.md) · [网页版](https://renxf.github.io/hyx-oem-parts-index/category/tailgate-handle-camera.html) |
+| 尾门拉手摄像头 / Tailgate Handle Camera | 44 | 47 | [https://hyxautoparts.com/category/tailgate-handle-camera](https://hyxautoparts.com/category/tailgate-handle-camera) | [docs/tailgate-handle-camera.md](docs/tailgate-handle-camera.md) · [网页版](https://renxf.github.io/hyx-oem-parts-index/category/tailgate-handle-camera.html) |
 | 倒车摄像头 / Parking / Reverse Camera | 172 | 235 | [https://hyxautoparts.com/category/parking-camera](https://hyxautoparts.com/category/parking-camera) | [docs/parking-camera.md](docs/parking-camera.md) · [网页版](https://renxf.github.io/hyx-oem-parts-index/category/parking-camera.html) |
-| 涡轮增压器执行器 / Turbocharger Actuator | 286 | 875 | [https://hyxautoparts.com/category/turbocharger-actuator](https://hyxautoparts.com/category/turbocharger-actuator) | [docs/turbocharger-actuator.md](docs/turbocharger-actuator.md) · [网页版](https://renxf.github.io/hyx-oem-parts-index/category/turbocharger-actuator.html) |
+| 涡轮增压器执行器 / Turbocharger Actuator | 287 | 875 | [https://hyxautoparts.com/category/turbocharger-actuator](https://hyxautoparts.com/category/turbocharger-actuator) | [docs/turbocharger-actuator.md](docs/turbocharger-actuator.md) · [网页版](https://renxf.github.io/hyx-oem-parts-index/category/turbocharger-actuator.html) |
 
 - **尾门拉手摄像头 / Tailgate Handle Camera** — 关键词: 尾门拉手摄像头、尾门拉手总成、拉门摄像头、后备箱拉手带摄像头 / tailgate handle camera, tailgate handle assembly, liftgate camera, trunk handle camera
 - **倒车摄像头 / Parking / Reverse Camera** — 关键词: 倒车摄像头、后视摄像头、泊车摄像头、驻车摄像头 / parking camera, reverse camera, backup camera, rear view camera, reversing camera
