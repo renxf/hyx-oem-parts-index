@@ -32,7 +32,7 @@ Use it to: look up an OE number → confirm the matching SKU and factory code �
 | 最低起订量 / MOQ | 10 pcs (可混批 / mixed SKU allowed) |
 | 出口 / Export | 30+ countries · DDP / FOB / EXW · 海运 / 空运 / 快递 |
 | 响应 / Response | 询盘 2 小时内回复报价单 / quote within 2 hours |
-| 数据更新 / Data updated | 2026-11-09 |
+| 数据更新 / Data updated | 2026-11-11 |
 
 ## 怎么用 / How to use
 
@@ -132,4 +132,4 @@ Use it to: look up an OE number → confirm the matching SKU and factory code �
 
 ---
 
-<sub>本仓库由 [hyxautoparts.com](https://hyxautoparts.com) 自动生成 · 2026-11-09</sub>
+<sub>本仓库由 [hyxautoparts.com](https://hyxautoparts.com) 自动生成 · 2026-11-11</sub>
