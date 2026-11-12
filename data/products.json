@@ -23301,7 +23301,7 @@
   "size": "",
   "weight": "",
   "image": "us-b3/image287.jpeg",
-  "price_ref": "",
+  "price_ref": 160,
   "moq": 10,
   "brand_zh": "",
   "brand": "Volkswagen",
@@ -23334,6 +23334,8 @@
   "fitment_group": "FG-287",
   "fitment_count": 1,
   "fitment_models": [],
-  "page": "p/830323-5003s-volkswagen-turbocharger-actuator"
+  "page": "p/830323-5003s-volkswagen-turbocharger-actuator",
+  "price_valid_from": "2026-11-13",
+  "price_note": "2026-11-13 人工指定单品价 ¥160 CNY(件号 830323-5003S;源 PDF 无条目号故无规则价)"
  }
 ]
