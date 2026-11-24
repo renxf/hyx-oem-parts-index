@@ -4462,7 +4462,7 @@
   "model": "探险者",
   "size": "75*75*75",
   "weight": "40G",
-  "image": "us-b2/image78.png",
+  "image": "us-b2/sn104_1.jpg",
   "oes": [
    "GB5T-19H222-AB"
   ],
@@ -4480,7 +4480,11 @@
   "region": "American",
   "series": "Ford Sedan & Crossover",
   "images": [
-   "us-b2/image78.png"
+   "us-b2/sn104_1.jpg",
+   "us-b2/sn104_2.jpg",
+   "us-b2/sn104_3.jpg",
+   "us-b2/sn104_4.jpg",
+   "us-b2/sn104_5.jpg"
   ],
   "all_images": [
    "../us-b2/image78.png"
@@ -4495,7 +4499,14 @@
   "page": "p/gb5t-19h222-ab-ford-lincoln-parking-reverse-camera",
   "price_ref": 85,
   "price_valid_from": "2026-11-13",
-  "price_note": "2026-11-13 按品类统一定价 ¥85 CNY(倒车/驻车摄像头),MOQ 10 件"
+  "price_note": "2026-11-13 按品类统一定价 ¥85 CNY(倒车/驻车摄像头),MOQ 10 件",
+  "image_source": {
+   "fetched_at": "2026-11-24",
+   "pages": [
+    "https://syndmart.com/products/front-view-camera-for-2016-2018-ford-explorer-gb5t-19h222-ab"
+   ],
+   "note": "外网同款产品图"
+  }
  },
  {
   "factory": "2FD035",
@@ -9180,7 +9191,7 @@
   "model": "卡迪拉克",
   "size": "75*75*75",
   "weight": "70G",
-  "image": "us-b2/image67.png",
+  "image": "us-b2/sn203_1.jpg",
   "oes": [
    "209008746"
   ],
@@ -9198,7 +9209,10 @@
   "region": "American",
   "series": "Cadillac",
   "images": [
-   "us-b2/image67.png"
+   "us-b2/sn203_1.jpg",
+   "us-b2/sn203_2.jpg",
+   "us-b2/sn203_3.jpg",
+   "us-b2/sn203_4.jpg"
   ],
   "all_images": [
    "../us-b2/image67.png"
@@ -9213,7 +9227,14 @@
   "page": "p/209008746-chevrolet-buick-cadillac-parking-reverse-camera",
   "price_ref": 85,
   "price_valid_from": "2026-11-13",
-  "price_note": "2026-11-13 按品类统一定价 ¥85 CNY(倒车/驻车摄像头),MOQ 10 件"
+  "price_note": "2026-11-13 按品类统一定价 ¥85 CNY(倒车/驻车摄像头),MOQ 10 件",
+  "image_source": {
+   "fetched_at": "2026-11-24",
+   "pages": [
+    "https://syndmart.com/products/buick-rear-view-camera-oe-209008746-with-night-vision"
+   ],
+   "note": "外网同款产品图"
+  }
  },
  {
   "factory": "2XF029",
@@ -9305,7 +9326,7 @@
   "model": "19-22库罗德",
   "size": "75*75*75",
   "weight": "60G",
-  "image": "us-b2/image76.png",
+  "image": "us-b2/sn206_1.jpg",
   "oes": [
    "84586465-GM1960203"
   ],
@@ -9325,7 +9346,7 @@
   "region": "American",
   "series": "GM",
   "images": [
-   "us-b2/image76.png"
+   "us-b2/sn206_1.jpg"
   ],
   "all_images": [
    "../us-b2/image76.png"
@@ -9340,7 +9361,14 @@
   "page": "p/84586465-gm1960203-chevrolet-buick-cadillac-parking-reverse-camera",
   "price_ref": 85,
   "price_valid_from": "2026-11-13",
-  "price_note": "2026-11-13 按品类统一定价 ¥85 CNY(倒车/驻车摄像头),MOQ 10 件"
+  "price_note": "2026-11-13 按品类统一定价 ¥85 CNY(倒车/驻车摄像头),MOQ 10 件",
+  "image_source": {
+   "fetched_at": "2026-11-24",
+   "pages": [
+    "https://www.huhandle.com/products/hu-gml571-oe"
+   ],
+   "note": "外网同款产品图"
+  }
  },
  {
   "factory": "2XF032",
