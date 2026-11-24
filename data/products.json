@@ -9774,7 +9774,7 @@
   "model": "奥迪 A4 A5 A6 A7 A8 Q5 2.0T",
   "size": "",
   "weight": "",
-  "image": "us-b3/image1.jpeg",
+  "image": "us-b3/sn217_1.jpg",
   "price_ref": 160,
   "moq": 10,
   "brand_zh": "奥迪/大众/EA888",
@@ -9807,7 +9807,9 @@
   "region": "European",
   "fitment": "奥迪 A4 A5 A6 A7 A8 Q5 2.0T",
   "images": [
-   "us-b3/image1.jpeg"
+   "us-b3/sn217_1.jpg",
+   "us-b3/sn217_2.jpg",
+   "us-b3/sn217_3.jpg"
   ],
   "all_images": [
    "../us-b3/image1.jpeg"
@@ -9818,7 +9820,14 @@
   "fitment_group": "FG-1",
   "fitment_count": 1,
   "fitment_models": [],
-  "page": "p/06l145612k-audi-volkswagen-turbocharger-actuator"
+  "page": "p/06l145612k-audi-volkswagen-turbocharger-actuator",
+  "image_source": {
+   "fetched_at": "2026-11-24",
+   "pages": [
+    "https://ozanda.com.au/product/06l145612k-turbo-electronic-actuator-ea888-2-0t-replacement-for-audi-a4-avant-allroad-quattro-s4-a5-s5-rs-dc"
+   ],
+   "note": "外网同款产品图"
+  }
  },
  {
   "factory": "DSD01B",
