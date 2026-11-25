@@ -51,6 +51,20 @@ CATS = {
         "kw_zh": "涡轮增压器执行器、涡轮执行器、废气旁通阀执行器、涡轮增压器调节器",
         "kw_en": "turbocharger actuator, turbo actuator, wastegate actuator, turbocharger control valve",
     },
+    "valve-cover": {
+        "zh": "气门室盖",
+        "en": "Valve Cover",
+        "slug": "valve-cover",
+        "kw_zh": "气门室盖、气门盖、发动机气门室盖、气门室盖总成、发动机盖",
+        "kw_en": "valve cover, cylinder head cover, rocker cover, valve cover assembly, engine cover",
+    },
+    "intake-manifold": {
+        "zh": "进气歧管",
+        "en": "Intake Manifold",
+        "slug": "intake-manifold",
+        "kw_zh": "进气歧管、进气总管、发动机进气歧管、进气道",
+        "kw_en": "intake manifold, engine intake manifold, inlet manifold, air intake manifold",
+    },
 }
 
 CJK = re.compile(r"[\u4e00-\u9fff]")
