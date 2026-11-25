@@ -1,5 +1,18 @@
 [
  {
+  "oe": "1S7G-6K272-AE",
+  "factory": "7273-00000e",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Ford",
+  "model_zh": "福特 气门室盖",
+  "model_en": "Ford Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/1s7g-6k272-ae-ford-valve-cover"
+ },
+ {
   "oe": "2/3/4/5",
   "factory": "DSD06D11",
   "category": "涡轮增压器执行器",
@@ -141,6 +154,32 @@
   "moq": 10,
   "price_ref_cny": 160,
   "product_url": "https://hyxautoparts.com/p/03f198725c-audi-volkswagen-turbocharger-actuator"
+ },
+ {
+  "oe": "03H 103429H",
+  "factory": "7280-480004",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Audi",
+  "model_zh": "奥迪 气门室盖 车型 Q7 3.6",
+  "model_en": "Audi Valve Cover model Q7 3.6",
+  "fitment": "奥迪 气门室盖 车型 Q7 3.6 · OE 03H 103429L",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/03h-103429h-audi-valve-cover"
+ },
+ {
+  "oe": "03H 103429L",
+  "factory": "7280-480001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Audi",
+  "model_zh": "奥迪 气门室盖 车型 Q7 3.6",
+  "model_en": "Audi Valve Cover model Q7 3.6",
+  "fitment": "奥迪 气门室盖 车型 Q7 3.6 · OE 03H 103429H",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/03h-103429l-audi-valve-cover"
  },
  {
   "oe": "03L198716A",
@@ -793,6 +832,19 @@
   "product_url": "https://hyxautoparts.com/p/04e198725r-q-audi-volkswagen-turbocharger-actuator"
  },
  {
+  "oe": "4M5G-6K272-HE",
+  "factory": "7280-12000D",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Ford",
+  "model_zh": "福特 气门室盖 无孔",
+  "model_en": "Ford Valve Cover without hole",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/4m5g-6k272-he-ford-valve-cover"
+ },
+ {
   "oe": "5/53/57/60",
   "factory": "DSD06J17",
   "category": "涡轮增压器执行器",
@@ -843,6 +895,149 @@
   "moq": 10,
   "price_ref_cny": 135,
   "product_url": "https://hyxautoparts.com/p/5nd-827-566-c-volkswagen-tailgate-handle-camera"
+ },
+ {
+  "oe": "5S6G-6M293AK",
+  "factory": "7280-11000D",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Ford",
+  "model_zh": "福特 气门室盖 有孔",
+  "model_en": "Ford Valve Cover with hole",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/5s6g-6m293ak-ford-valve-cover"
+ },
+ {
+  "oe": "06D103469J",
+  "factory": "7280-430001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Audi",
+  "model_zh": "奥迪 气门室盖 C6 / 2.0",
+  "model_en": "Audi Valve Cover C6 / 2.0",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/06d103469j-audi-valve-cover"
+ },
+ {
+  "oe": "06D103469N",
+  "factory": "7280-430001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Audi",
+  "model_zh": "奥迪 气门室盖 C6 / 2.0",
+  "model_en": "Audi Valve Cover C6 / 2.0",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/06d103469j-audi-valve-cover"
+ },
+ {
+  "oe": "06E133109AR",
+  "factory": "7281-130001",
+  "category": "进气歧管",
+  "category_en": "Intake Manifold",
+  "brand": "Audi",
+  "model_zh": "奥迪 进气歧管",
+  "model_en": "Audi Intake Manifold",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/06e133109ar-audi-intake-manifold"
+ },
+ {
+  "oe": "06E133110AF",
+  "factory": "7281-140001",
+  "category": "进气歧管",
+  "category_en": "Intake Manifold",
+  "brand": "Audi",
+  "model_zh": "奥迪 进气歧管",
+  "model_en": "Audi Intake Manifold",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/06e133110af-audi-intake-manifold"
+ },
+ {
+  "oe": "06E 103 471G",
+  "factory": "7280-490001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Audi",
+  "model_zh": "奥迪 气门室盖 Q7 / 2.4",
+  "model_en": "Audi Valve Cover Q7 / 2.4",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/06e-103-471g-audi-valve-cover"
+ },
+ {
+  "oe": "06E 103 471P",
+  "factory": "7280-410001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Audi",
+  "model_zh": "奥迪 气门室盖 Q7 / 新款 / 卡宴 3.0",
+  "model_en": "Audi Valve Cover Q7 / new model / Cayenne 3.0",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/06e-103-471p-audi-valve-cover"
+ },
+ {
+  "oe": "06E 103 471S",
+  "factory": "7280-450001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Audi",
+  "model_zh": "奥迪 气门室盖 Q7 / 老款 / 卡宴 3.0",
+  "model_en": "Audi Valve Cover Q7 / old model / Cayenne 3.0",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/06e-103-471s-audi-valve-cover"
+ },
+ {
+  "oe": "06E 103 472L",
+  "factory": "7280-500001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Audi",
+  "model_zh": "奥迪 气门室盖 Q7 / 2.4",
+  "model_en": "Audi Valve Cover Q7 / 2.4",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/06e-103-472l-audi-valve-cover"
+ },
+ {
+  "oe": "06E 103 472N",
+  "factory": "7280-420001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Audi",
+  "model_zh": "奥迪 气门室盖 Q7 / 新款 / 卡宴 3.0",
+  "model_en": "Audi Valve Cover Q7 / new model / Cayenne 3.0",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/06e-103-472n-audi-valve-cover"
+ },
+ {
+  "oe": "06E 103 472Q",
+  "factory": "7280-460001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Audi",
+  "model_zh": "奥迪 气门室盖 Q7 / 老款 / 卡宴 3.0",
+  "model_en": "Audi Valve Cover Q7 / old model / Cayenne 3.0",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/06e-103-472q-audi-valve-cover"
  },
  {
   "oe": "06K145612E",
@@ -3705,6 +3900,19 @@
   "product_url": "https://hyxautoparts.com/p/9c3z-19g490-e-ford-lincoln-parking-reverse-camera"
  },
  {
+  "oe": "9P2-6K271-AA-B",
+  "factory": "7280-380001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Ford",
+  "model_zh": "福特 气门室盖",
+  "model_en": "Ford Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/9p2-6k271-aa-b-ford-valve-cover"
+ },
+ {
   "oe": "18G 827 566 B",
   "factory": "2DZ002",
   "category": "尾门拉手摄像头",
@@ -3716,6 +3924,19 @@
   "moq": 10,
   "price_ref_cny": 135,
   "product_url": "https://hyxautoparts.com/p/18g-827-566-b-volkswagen-tailgate-handle-camera"
+ },
+ {
+  "oe": "271 010 1730",
+  "factory": "7280-270001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Mercedes-Benz",
+  "model_zh": "奔驰 气门室盖",
+  "model_en": "Mercedes-Benz Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/271-010-1730-mercedes-benz-valve-cover"
  },
  {
   "oe": "0305GAB00181N",
@@ -3872,6 +4093,32 @@
   "moq": 10,
   "price_ref_cny": 230,
   "product_url": "https://hyxautoparts.com/p/896a4-60010-toyota-turbocharger-actuator"
+ },
+ {
+  "oe": "1112 7646 552",
+  "factory": "7280-390001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "BMW",
+  "model_zh": "宝马 气门室盖",
+  "model_en": "BMW Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/1112-7646-552-bmw-valve-cover"
+ },
+ {
+  "oe": "1112 7646 553",
+  "factory": "7280-400001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "BMW",
+  "model_zh": "宝马 气门室盖",
+  "model_en": "BMW Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/1112-7646-553-bmw-valve-cover"
  },
  {
   "oe": "1442-130000",
@@ -10998,6 +11245,32 @@
   "product_url": "https://hyxautoparts.com/p/1118433xelt25-turbocharger-actuator"
  },
  {
+  "oe": "1379864",
+  "factory": "7280-11000D",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Ford",
+  "model_zh": "福特 气门室盖 有孔",
+  "model_en": "Ford Valve Cover with hole",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/5s6g-6m293ak-ford-valve-cover"
+ },
+ {
+  "oe": "1516726",
+  "factory": "7280-310001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Ford",
+  "model_zh": "福特 气门室盖",
+  "model_en": "Ford Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/bc1q-6k271-aa-ford-valve-cover"
+ },
+ {
   "oe": "1633970-0024",
   "factory": "DSD14A-04",
   "category": "涡轮增压器执行器",
@@ -11243,6 +11516,19 @@
   "moq": 10,
   "price_ref_cny": 230,
   "product_url": "https://hyxautoparts.com/p/6nw010430-01-bmw-toyota-turbocharger-actuator"
+ },
+ {
+  "oe": "9206757",
+  "factory": "7280-080003",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Buick",
+  "model_zh": "别克 气门室盖",
+  "model_en": "Buick Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/92068243-buick-valve-cover"
  },
  {
   "oe": "12735956",
@@ -11726,6 +12012,19 @@
   "product_url": "https://hyxautoparts.com/p/f01r00za28-chevrolet-buick-turbocharger-actuator"
  },
  {
+  "oe": "25192208",
+  "factory": "7280-570000",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Buick",
+  "model_zh": "别克 气门室盖 国外版凯越 1.6",
+  "model_en": "Buick Valve Cover overseas version Aveo 1.6",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/25192208-buick-valve-cover"
+ },
+ {
   "oe": "26269014",
   "factory": "2XF020",
   "category": "倒车摄像头",
@@ -11776,6 +12075,71 @@
   "moq": 10,
   "price_ref_cny": 85,
   "product_url": "https://hyxautoparts.com/p/26691703-chevrolet-buick-cadillac-parking-reverse-camera"
+ },
+ {
+  "oe": "31319642B",
+  "factory": "7279-000002",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Land Rover",
+  "model_zh": "路虎 气门室盖",
+  "model_en": "Land Rover Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/lr023777b-land-rover-valve-cover"
+ },
+ {
+  "oe": "31319643",
+  "factory": "7280-240001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Volvo",
+  "model_zh": "沃尔沃 气门室盖",
+  "model_en": "Volvo Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/31319643-volvo-valve-cover"
+ },
+ {
+  "oe": "31480754",
+  "factory": "7280-820001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Volvo",
+  "model_zh": "沃尔沃 气门室盖",
+  "model_en": "Volvo Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/31480754-volvo-valve-cover"
+ },
+ {
+  "oe": "31670210",
+  "factory": "7280-550001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Volvo",
+  "model_zh": "沃尔沃 气门室盖",
+  "model_en": "Volvo Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/32140004-volvo-valve-cover"
+ },
+ {
+  "oe": "32140004",
+  "factory": "7280-550001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Volvo",
+  "model_zh": "沃尔沃 气门室盖",
+  "model_en": "Volvo Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/32140004-volvo-valve-cover"
  },
  {
   "oe": "39136564",
@@ -12038,6 +12402,19 @@
   "product_url": "https://hyxautoparts.com/p/gtb1549v-chevrolet-turbocharger-actuator"
  },
  {
+  "oe": "55573746",
+  "factory": "7280-070001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Buick",
+  "model_zh": "别克 气门室盖",
+  "model_en": "Buick Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/55573746-buick-valve-cover"
+ },
+ {
   "oe": "55581063",
   "factory": "DSDM-008",
   "category": "涡轮增压器执行器",
@@ -12049,6 +12426,19 @@
   "moq": 10,
   "price_ref_cny": 160,
   "product_url": "https://hyxautoparts.com/p/gtb1549v-chevrolet-turbocharger-actuator"
+ },
+ {
+  "oe": "55598449",
+  "factory": "7280-810001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Opel",
+  "model_zh": "欧宝 气门室盖",
+  "model_en": "Opel Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/55598449-opel-valve-cover"
  },
  {
   "oe": "56038978AL",
@@ -12374,6 +12764,32 @@
   "moq": 10,
   "price_ref_cny": 85,
   "product_url": "https://hyxautoparts.com/p/56054158ab-dodge-jeep-chrysler-parking-reverse-camera"
+ },
+ {
+  "oe": "059103469BD",
+  "factory": "7280-630001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Audi",
+  "model_zh": "奥迪 气门室盖 Q7 / A7 柴油",
+  "model_en": "Audi Valve Cover Q7 / A7 diesel",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/059103469bd-audi-valve-cover"
+ },
+ {
+  "oe": "059103470AS",
+  "factory": "7280-620001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Audi",
+  "model_zh": "奥迪 气门室盖 Q7 / A7 柴油",
+  "model_en": "Audi Valve Cover Q7 / A7 diesel",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/059103470as-audi-valve-cover"
  },
  {
   "oe": "059145722R",
@@ -13026,6 +13442,45 @@
   "product_url": "https://hyxautoparts.com/p/86554978-chevrolet-buick-cadillac-parking-reverse-camera"
  },
  {
+  "oe": "92062396",
+  "factory": "7271-18B001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Buick",
+  "model_zh": "别克 气门室盖",
+  "model_en": "Buick Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/92062396-buick-valve-cover"
+ },
+ {
+  "oe": "92068243",
+  "factory": "7280-080003",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Buick",
+  "model_zh": "别克 气门室盖",
+  "model_en": "Buick Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/92068243-buick-valve-cover"
+ },
+ {
+  "oe": "93335438",
+  "factory": "7277-000001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Buick",
+  "model_zh": "别克 气门室盖",
+  "model_en": "Buick Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/93335438-buick-valve-cover"
+ },
+ {
   "oe": "95407397",
   "factory": "2XF037",
   "category": "倒车摄像头",
@@ -13037,6 +13492,32 @@
   "moq": 10,
   "price_ref_cny": 85,
   "product_url": "https://hyxautoparts.com/p/95407397-chevrolet-buick-cadillac-parking-reverse-camera"
+ },
+ {
+  "oe": "96181319",
+  "factory": "7280-830000",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Buick",
+  "model_zh": "别克 气门室盖",
+  "model_en": "Buick Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/96181319-buick-valve-cover"
+ },
+ {
+  "oe": "96473698",
+  "factory": "7270-160000",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Buick",
+  "model_zh": "别克 气门室盖 JA1.6 / TA / Aveo 1.6",
+  "model_en": "Buick Valve Cover JA1.6 / TA / Aveo 1.6",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/96473698-buick-valve-cover"
  },
  {
   "oe": "209008746",
@@ -13596,6 +14077,19 @@
   "moq": 10,
   "price_ref_cny": 160,
   "product_url": "https://hyxautoparts.com/p/gtb1449vz-ford-peugeot-turbocharger-actuator"
+ },
+ {
+  "oe": "11127646555",
+  "factory": "7280-250001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Peugeot",
+  "model_zh": "标致 气门室盖",
+  "model_en": "Peugeot Valve Cover",
+  "fitment": "标致 气门室盖 · OE V759886280",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/11127646555-peugeot-valve-cover"
  },
  {
   "oe": "11658519476",
@@ -14482,6 +14976,32 @@
   "product_url": "https://hyxautoparts.com/p/ag1z-19g490-d-ford-lincoln-parking-reverse-camera"
  },
  {
+  "oe": "AG9G-6M293-B-B",
+  "factory": "7280-280001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Ford",
+  "model_zh": "福特 气门室盖",
+  "model_en": "Ford Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/ag9g-6m293-b-b-ford-valve-cover"
+ },
+ {
+  "oe": "AJ813415",
+  "factory": "7281-080001",
+  "category": "进气歧管",
+  "category_en": "Intake Manifold",
+  "brand": "Jaguar",
+  "model_zh": "捷豹 进气歧管",
+  "model_en": "Jaguar Intake Manifold",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/aj813415-jaguar-intake-manifold"
+ },
+ {
   "oe": "AL3T-19G490-AC",
   "factory": "2FD103",
   "category": "倒车摄像头",
@@ -14521,6 +15041,19 @@
   "product_url": "https://hyxautoparts.com/p/ba1t-19g490-ad-ford-lincoln-parking-reverse-camera"
  },
  {
+  "oe": "BB5E-6K-271-A",
+  "factory": "7280-320001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Ford",
+  "model_zh": "福特 气门室盖",
+  "model_en": "Ford Valve Cover",
+  "fitment": "福特 气门室盖 · OE CJ5E-6K271-BF-B",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/bb5e-6k-271-a-ford-valve-cover"
+ },
+ {
   "oe": "BB5Z-19G490-A",
   "factory": "2FD040",
   "category": "倒车摄像头",
@@ -14532,6 +15065,32 @@
   "moq": 10,
   "price_ref_cny": 85,
   "product_url": "https://hyxautoparts.com/p/bb5z-19g490-a-ford-lincoln-parking-reverse-camera"
+ },
+ {
+  "oe": "BC1Q-6K271-AA",
+  "factory": "7280-310001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Ford",
+  "model_zh": "福特 气门室盖",
+  "model_en": "Ford Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/bc1q-6k271-aa-ford-valve-cover"
+ },
+ {
+  "oe": "BK2Q-6K271-AK",
+  "factory": "7280-330001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Ford",
+  "model_zh": "福特 气门室盖",
+  "model_en": "Ford Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/bk2q-6k271-ak-ford-valve-cover"
  },
  {
   "oe": "BK3Q6K682CB",
@@ -14740,6 +15299,19 @@
   "moq": 10,
   "price_ref_cny": 230,
   "product_url": "https://hyxautoparts.com/p/6nw099660-02-maxus-turbocharger-actuator"
+ },
+ {
+  "oe": "CJ5E-6K271-BF-B",
+  "factory": "7280-290001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Ford",
+  "model_zh": "福特 气门室盖",
+  "model_en": "Ford Valve Cover",
+  "fitment": "福特 气门室盖 · OE BB5E-6K-271-A",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/cj5e-6k271-bf-b-ford-valve-cover"
  },
  {
   "oe": "CK4Z-19G490-A",
@@ -16861,6 +17433,84 @@
   "product_url": "https://hyxautoparts.com/p/835556-0100-ford-jmc-turbocharger-actuator"
  },
  {
+  "oe": "L3G6-10-210C",
+  "factory": "7280-15000C",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Mazda",
+  "model_zh": "马自达 气门室盖",
+  "model_en": "Mazda Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/l3g6-10-210c-mazda-valve-cover"
+ },
+ {
+  "oe": "L3N5-10-210C",
+  "factory": "7280-15000C",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Mazda",
+  "model_zh": "马自达 气门室盖",
+  "model_en": "Mazda Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/l3g6-10-210c-mazda-valve-cover"
+ },
+ {
+  "oe": "L35G-10210",
+  "factory": "7278-ZS000D",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Ford",
+  "model_zh": "福特 气门室盖",
+  "model_en": "Ford Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/l35g-10210-ford-valve-cover"
+ },
+ {
+  "oe": "L310-10-21E",
+  "factory": "7280-170000",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Mazda",
+  "model_zh": "马自达 气门室盖",
+  "model_en": "Mazda Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/l310-10-21e-mazda-valve-cover"
+ },
+ {
+  "oe": "L310-10-21E",
+  "factory": "7280-190002",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Mazda",
+  "model_zh": "马自达 气门室盖",
+  "model_en": "Mazda Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/l502-10-210c-mazda-valve-cover"
+ },
+ {
+  "oe": "L502-10-210C",
+  "factory": "7280-190002",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Mazda",
+  "model_zh": "马自达 气门室盖",
+  "model_en": "Mazda Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/l502-10-210c-mazda-valve-cover"
+ },
+ {
   "oe": "LB5F9G438AF",
   "factory": "DSD04A",
   "category": "涡轮增压器执行器",
@@ -16900,6 +17550,19 @@
   "product_url": "https://hyxautoparts.com/p/lc5t-19g490-ac-ford-lincoln-parking-reverse-camera"
  },
  {
+  "oe": "LF22-10-201D",
+  "factory": "7280-180002",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Mazda",
+  "model_zh": "马自达 气门室盖",
+  "model_en": "Mazda Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/lf22-10-201d-mazda-valve-cover"
+ },
+ {
   "oe": "LJ6T-19G490-AA",
   "factory": "2FD0102",
   "category": "倒车摄像头",
@@ -16926,6 +17589,123 @@
   "product_url": "https://hyxautoparts.com/p/lj7t-19g490-ab-ford-lincoln-parking-reverse-camera"
  },
  {
+  "oe": "LR09353",
+  "factory": "7280-340001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Land Rover",
+  "model_zh": "路虎 气门室盖",
+  "model_en": "Land Rover Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/lr051835-land-rover-valve-cover"
+ },
+ {
+  "oe": "LR023777",
+  "factory": "7279-000002",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Land Rover",
+  "model_zh": "路虎 气门室盖",
+  "model_en": "Land Rover Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/lr023777b-land-rover-valve-cover"
+ },
+ {
+  "oe": "LR023777B",
+  "factory": "7279-000002",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Land Rover",
+  "model_zh": "路虎 气门室盖",
+  "model_en": "Land Rover Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/lr023777b-land-rover-valve-cover"
+ },
+ {
+  "oe": "LR032081",
+  "factory": "7280-000001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Land Rover",
+  "model_zh": "路虎 气门室盖",
+  "model_en": "Land Rover Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/lr032081-land-rover-valve-cover"
+ },
+ {
+  "oe": "LR032723",
+  "factory": "7280-890001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Land Rover",
+  "model_zh": "路虎 气门室盖",
+  "model_en": "Land Rover Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/lr032723-land-rover-valve-cover"
+ },
+ {
+  "oe": "LR032724",
+  "factory": "7280-900001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Land Rover",
+  "model_zh": "路虎 气门室盖",
+  "model_en": "Land Rover Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/lr032724-land-rover-valve-cover"
+ },
+ {
+  "oe": "LR041443",
+  "factory": "7280-010001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Land Rover",
+  "model_zh": "路虎 气门室盖",
+  "model_en": "Land Rover Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/lr041443-land-rover-valve-cover"
+ },
+ {
+  "oe": "LR041685",
+  "factory": "7280-350001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Land Rover",
+  "model_zh": "路虎 气门室盖",
+  "model_en": "Land Rover Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/lr041685-land-rover-valve-cover"
+ },
+ {
+  "oe": "LR051835",
+  "factory": "7280-340001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Land Rover",
+  "model_zh": "路虎 气门室盖",
+  "model_en": "Land Rover Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/lr051835-land-rover-valve-cover"
+ },
+ {
   "oe": "LR065510",
   "factory": "DSD31",
   "category": "涡轮增压器执行器",
@@ -16937,6 +17717,58 @@
   "moq": 10,
   "price_ref_cny": 230,
   "product_url": "https://hyxautoparts.com/p/td04-land-rover-jaguar-turbocharger-actuator"
+ },
+ {
+  "oe": "LR070360",
+  "factory": "7280-320001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Ford",
+  "model_zh": "福特 气门室盖",
+  "model_en": "Ford Valve Cover",
+  "fitment": "福特 气门室盖 · OE CJ5E-6K271-BF-B",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/bb5e-6k-271-a-ford-valve-cover"
+ },
+ {
+  "oe": "LR073585",
+  "factory": "7281-010001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Land Rover",
+  "model_zh": "路虎 气门室盖",
+  "model_en": "Land Rover Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/lr074624-land-rover-valve-cover"
+ },
+ {
+  "oe": "LR074623",
+  "factory": "7281-000001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Land Rover",
+  "model_zh": "路虎 气门室盖",
+  "model_en": "Land Rover Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/lr074623-land-rover-valve-cover"
+ },
+ {
+  "oe": "LR074624",
+  "factory": "7281-010001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Land Rover",
+  "model_zh": "路虎 气门室盖",
+  "model_en": "Land Rover Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/lr074624-land-rover-valve-cover"
  },
  {
   "oe": "LR082283",
@@ -16952,6 +17784,19 @@
   "product_url": "https://hyxautoparts.com/p/6nw010430-34-land-rover-jaguar-turbocharger-actuator"
  },
  {
+  "oe": "LR085939",
+  "factory": "7281-080001",
+  "category": "进气歧管",
+  "category_en": "Intake Manifold",
+  "brand": "Jaguar",
+  "model_zh": "捷豹 进气歧管",
+  "model_en": "Jaguar Intake Manifold",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/aj813415-jaguar-intake-manifold"
+ },
+ {
   "oe": "LR104440",
   "factory": "DSD06J25",
   "category": "涡轮增压器执行器",
@@ -16963,6 +17808,32 @@
   "moq": 10,
   "price_ref_cny": 230,
   "product_url": "https://hyxautoparts.com/p/6nw010430-34-land-rover-jaguar-turbocharger-actuator"
+ },
+ {
+  "oe": "LR116732",
+  "factory": "7281-010001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Land Rover",
+  "model_zh": "路虎 气门室盖",
+  "model_en": "Land Rover Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/lr074624-land-rover-valve-cover"
+ },
+ {
+  "oe": "LR166340",
+  "factory": "7281-000001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Land Rover",
+  "model_zh": "路虎 气门室盖",
+  "model_en": "Land Rover Valve Cover",
+  "fitment": "",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/lr074623-land-rover-valve-cover"
  },
  {
   "oe": "LV4T-19G490-AB",
@@ -17275,6 +18146,19 @@
   "moq": 10,
   "price_ref_cny": 160,
   "product_url": "https://hyxautoparts.com/p/td0211207vt-ford-turbocharger-actuator"
+ },
+ {
+  "oe": "V759886280",
+  "factory": "7280-160001",
+  "category": "气门室盖",
+  "category_en": "Valve Cover",
+  "brand": "Peugeot",
+  "model_zh": "标致 气门室盖",
+  "model_en": "Peugeot Valve Cover",
+  "fitment": "标致 气门室盖 · OE 11127646555",
+  "moq": 10,
+  "price_ref_cny": null,
+  "product_url": "https://hyxautoparts.com/p/v759886280-peugeot-valve-cover"
  },
  {
   "oe": "XAA3776020C54",
